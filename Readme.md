@@ -85,28 +85,28 @@ O design do sistema foi criado no Figma e pode ser acessado no link abaixo:
 ### Telas do Sistema
 
 #### Tela de Login
-![Tela de login](images\Tela_login.png)
+![Tela de login](images/Tela_login.png)
 
 #### Tela Inicial
-![Tela Inicial](images\Tela_Inicial.png)
+![Tela Inicial](images/Tela_Inicial.png)
 
 #### Tela de Cadastro de Pessoa Física
-![Cadastro Pessoa Física](images\Tela_cadastro_PF.png)
+![Cadastro Pessoa Física](images/Tela_cadastro_PF.png)
 
 #### Tela de Cadastro de Pessoa Jurídica
-![Cadastro Pessoa Jurídica](images\Tela_Cadastro_PJ.png)
+![Cadastro Pessoa Jurídica](images/Tela_Cadastro_PJ.png)
 
 #### Tela de Cadastro de Professores
-![Cadastro de Professores](images\Tela_Cadastro_Professores.png)
+![Cadastro de Professores](images/Tela_Cadastro_Professores.png)
 
 #### Tela de Cadastro de Fornecedores
-![Cadastro de Fornecedores](images\Tela_Cadastro_Fornecedores.png)
+![Cadastro de Fornecedores](images/Tela_Cadastro_Fornecedores.png)
 
 #### Tela de Cadastro de Alunos
-![Cadastro de Alunos](images\Tela_Cadastro_Alunos.png)
+![Cadastro de Alunos](images/Tela_Cadastro_Alunos.png)
 
 #### Tela de Sucesso no Cadastro
-![Sucesso no Cadastro](images\Tela_sucessoCadastro.png)
+![Sucesso no Cadastro](images/Tela_sucessoCadastro.png)
 
 ---
 
