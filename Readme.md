@@ -23,7 +23,7 @@ O diagrama de casos de uso identifica as principais interações do **Administra
 ### Figura 1 – Diagrama de Casos de Uso
 > Criado com o draw.io: [https://app.diagrams.net/](https://app.diagrams.net/)
 
-![Diagrama de Casos de Uso](images\Diagrama_de_casos_de_uso.png)
+![Diagrama de Casos de Uso](images/Diagrama_de_casos_de_uso.png)
 
 ---
 
@@ -73,7 +73,7 @@ O diagrama de classes identifica as entidades do sistema e suas propriedades, co
 ### Figura 2 – Diagrama de Classes
 > Criado com o PlantUML: [https://plantuml.com/](https://plantuml.com/)
 
-![Diagrama de Classes](images\Diagrama_de_classes.png)
+![Diagrama de Classes](images/Diagrama_de_classes.png)
 
 ---
 
